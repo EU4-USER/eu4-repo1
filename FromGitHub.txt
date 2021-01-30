@@ -1,1 +1,8 @@
 This is the I added directly from Github.com remote repository
+
+Hey I just cloned my project
+from my github accoun
+just by clicking open with GitHub Desktop button
+on Github.com
+and it magically cloned my project
+to the location I specified 
